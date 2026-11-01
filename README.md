@@ -12,7 +12,7 @@ All report content is in the directory:
 
 This report takes the following structure:
 - 1_Introduction
-- - 1_Introduction_and_Data
+  - 1_Introduction_and_Data
   - 1_Splitting_Data
   - 1_Data_Google_Drive
 - 2_Linear_and_Transformed_models.ipynb
