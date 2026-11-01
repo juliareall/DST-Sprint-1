@@ -11,7 +11,7 @@ All report content is in the directory:
 - report/
 
 This report takes the following structure:
-- 1_Introduction
+- 1_Introduction:
   - 1_Introduction_and_Data
   - 1_Splitting_Data
   - 1_Data_Google_Drive
