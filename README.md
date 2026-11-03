@@ -12,7 +12,7 @@ All report content is in the directory:
 
 This report takes the following structure:
 - 1_Introduction:
-  - 1_Introduction_and_Data
+  - 1_Introduction
   - 1_Splitting_Data
   - 1_Data_Google_Drive
 - 2_Linear_and_Transformed_models.ipynb
@@ -30,9 +30,4 @@ Orhan wrote the Random Forest analysis, Julia wrote the Gradient Boosting analys
 
 ## Reflections
 
-We have placed our reflections in the folder:
-
-- reflection/
-  - OrhanB_reflection.pdf
-  - JuliaR_reflection.pdf
-  - Seb_reflection.pdf
+Our reflections are each included as separate PDFs in our project submissions.
