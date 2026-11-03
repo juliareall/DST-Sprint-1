@@ -16,13 +16,13 @@ This report takes the following structure:
   - 1_Splitting_Data
   - 1_Data_Google_Drive
 - 2_Linear_and_Transformed_models.ipynb
-- 3_Random_forest.ipynb
+- 3_Random_Forest(10).ipynb
 - 4_Gradient_Boosting.ipynb
 - 5_Wrap_up.pdf
 
 ## Evidence
 Our working is shown in our own directories,
-- Orhan/3-Random_forest(10).ipynb
+- Orhan/3_Random_Forest(10).ipynb
 - Julia/4-Gradient_Boosting.ipynb
 - Seb/1_Splitting_Data.ipynb & 2_Linear_and_Transformed_Models.ipynb
  
