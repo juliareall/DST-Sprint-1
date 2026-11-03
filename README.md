@@ -22,7 +22,7 @@ This report takes the following structure:
 
 ## Evidence
 Our working is shown in our own directories,
-- Orhan/3-Random_forest.ipynb
+- Orhan/3-Random_forest(10).ipynb
 - Julia/4-Gradient_Boosting.ipynb
 - Seb/1_Splitting_Data.ipynb & 2_Linear_and_Transformed_Models.ipynb
  
